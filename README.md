@@ -35,7 +35,11 @@ ctrl + c
 開發工具
 _________________________________________________
 Node.js 14.16.0
+
 Express 4.17.1
+
 Express-Handlebars 5.3.4
+
 Bootstrap 4.3.1
+
 Font-awesome 5.8.1
